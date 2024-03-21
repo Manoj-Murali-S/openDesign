@@ -11,7 +11,7 @@ const Overview = () => {
                     interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora toria nostra, per inceptos
                     himenaeos.</p>
             </div>
-            <div className="overviewbody">
+            <div className="overviewbody flex">
                 <div className="grid1 ovBodyp1"  data-aos="flip-right" data-aos-anchor-placement="top-bottom">
                 <img src="/assets/FrameOv.png" className="w-full h-full" alt="" srcSet="" />
                 </div>
