@@ -10,8 +10,10 @@ const Expert = () => {
               interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora toria nostra, per inceptos
               himenaeos.</p>
           </div>
-          <iframe width="660" height="415" src="https://www.youtube.com/embed/3KtWfp0UopM?si=ir-grO9VzGe1dj68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
+          <div class="video-container">
+  <iframe width="660" height="415" src="https://www.youtube.com/embed/3KtWfp0UopM?si=ir-grO9VzGe1dj68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+ </div>
       </div>
     </div>
   );
